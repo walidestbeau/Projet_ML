@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "scrollbarSlider.background": "#2a876d",
+        "statusBar.background" : "#71f0cc",
+        "activityBar.background": "#2a876d",
+        "activityBar.foreground": "#000000"
+
+    },
+}
